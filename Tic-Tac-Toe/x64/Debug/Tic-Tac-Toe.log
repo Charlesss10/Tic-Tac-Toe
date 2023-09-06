@@ -1,2 +1,3 @@
 ﻿  Source.c
+C:\Users\charles\ms visual studio\Tic-Tac-Toe\Source.c(274,9): warning C4013: 'time' undefined; assuming extern returning int
   Tic-Tac-Toe.vcxproj -> C:\Users\charles\ms visual studio\Tic-Tac-Toe\x64\Debug\Tic-Tac-Toe.exe
